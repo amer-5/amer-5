@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World!<br>📌 Travnik, Bosnia and Herzegovina<br>🌱 I’m currently learning: MERN stack & Pawn<br>💬 Ask me about anything
+👋 Hello World!<br>📌 Travnik, Bosnia and Herzegovina<br>🌱 I’m currently learning: NextJS and Expo<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
