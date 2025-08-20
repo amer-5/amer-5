@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amer_lopo)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amer-lopo-943791306/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amer_lopo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amer-lopo-943791306/)
 
 
 # 💻 Tech Stack:
