@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World!<br>📌 Travnik, Bosnia and Herzegovina<br>🌱 I’m currently learning Rust<br>💬 Ask me about anything
+👋 Hello World!<br>📌 Travnik, Bosnia and Herzegovina<br>🌱 I’m currently learning Go<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
