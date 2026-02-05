@@ -26,8 +26,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amer-5&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amer-5&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![My Metrics](https://raw.githubusercontent.com/amer-5/amer-5/main/github-metrics.svg)
 
 # 🧩 LeetCode Stats:
 ![](https://leetcode-badge-sage.vercel.app/badge/amer-5?theme=dark&bgColor=2D3133)<br>
