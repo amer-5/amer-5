@@ -2,7 +2,7 @@
 👋 Hello World!<br>📌 Travnik, Bosnia and Herzegovina<br>🌱 I’m currently learning and playing with GoLang<br>💬 Ask me about anything
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge)](https://instagram.com/amer_lopo) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amer-lopo-943791306/)
 
 
